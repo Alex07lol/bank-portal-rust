@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "bank_portal_rust",
   "version": "0.1.0",
-  "identifier": "com.laptop.bank_portal_rust",
+  "identifier": "com.laptop.bank-portal-rust",
   "build": {
     "frontendDist": "../src"
   },
